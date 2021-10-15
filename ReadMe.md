@@ -16,4 +16,4 @@ plotly doc: [https://plotly.com/python/](https://plotly.com/python/)
 <br>
 
 ####Example using parameters: ('BTC-USD', '5y', '1d'):
-![Example](https://raw.githubusercontent.com/CaffeinatedKev/crypto-risk-management/master/example.png)
+![Example](https://raw.githubusercontent.com/CaffeinatedKev/stock-crypto-indicators/master/example.png)
